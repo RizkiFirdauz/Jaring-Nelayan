@@ -1,0 +1,53 @@
+.container-fluidHeader {
+    height          : 100px;
+}
+
+.container-fluidHasil {
+    height          : 434px;
+    font-family     : "Skranji";
+    color           : white;
+}
+
+.container-fluidMarque {
+    height          : 100px;
+    padding         : 0;
+    margin          : 0;
+}
+
+.ImageButton {
+    height          : 96px;
+    width           : 100px;
+    padding         : 0;
+    border-radius   : 10px;
+}
+
+.Input {
+    width           : 250px;
+    height          : 38px;
+    font-style      : italic;
+    text-align      : center;
+    color           : grey;
+    font-family     : "Skranji";
+    border-radius   : 3px;
+    border          : none;
+}
+
+.sosmed {
+    text-align      : left;
+    font-size       : 0;
+    padding-top     : 80px;
+  }
+
+.fab {
+    font-size       : 20px;
+    color           : white;
+    padding         : 5px;
+}
+
+.fab:hover {
+    color           : blue;
+}
+
+.modal-body {
+    text-align      : center;
+}

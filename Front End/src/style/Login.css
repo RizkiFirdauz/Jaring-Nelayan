@@ -1,0 +1,28 @@
+.Login {
+    background      : url("https://bersatoe.com/wp-content/uploads/2016/05/sunrise1.jpg");
+    background-size : 100% 100%;
+    height          : 600px;
+}
+
+.box {
+    background      : rgba(0, 0, 0, 0.493);
+    width           : 350px;
+    height          : 520px;
+}
+
+.box2 {
+    background      : rgba(255, 255, 255, 0.315);
+    width           : 500px;
+    height          : 520px;
+    padding-top     : 120px;
+}
+
+.avatar {
+    border-radius   : 50%;
+    width           : 140px;
+    height          : 150px;
+}
+
+button {
+    border          : none;
+}

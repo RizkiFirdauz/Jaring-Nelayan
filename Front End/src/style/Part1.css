@@ -1,0 +1,14 @@
+.container-fluidPart1 {
+    align-items : center;
+    text-align  : center;
+    font-size   : 72px;
+    font-family : "Kaushan Script";
+    color       :white; 
+    background  : rgba(0, 0, 0, 0.301);
+    height      : 350px;
+}
+
+h2 {
+    font-size   : 60px;
+    padding-top : 10px;
+}

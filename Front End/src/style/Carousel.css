@@ -1,0 +1,15 @@
+.carousel-inner {
+    height      : 252px;
+}
+
+.carousel-caption{
+    height      : 220px;
+}
+
+p3 {
+    font-family : "Gaegu";
+    font-weight : bold;
+    font-size   : 18px;
+    color       : white;
+}
+

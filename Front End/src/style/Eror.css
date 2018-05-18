@@ -1,0 +1,13 @@
+p6 {
+    font-family     : "Dosis";
+    font-size       : 20px;
+    color           : white;
+    padding-top     : 20px;
+    font-weight     : bold;
+}
+
+.Eror {
+    background      : url("https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2016/giantmonster.jpg");
+    background-size : 100% 100%;
+    height          : 600px;
+}

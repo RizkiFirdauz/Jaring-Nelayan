@@ -1,0 +1,31 @@
+p4 {
+    font-family     : "Gaegu";
+    color           : white;
+    font-size       : 18px;
+}
+
+h5 {
+    font-family     : "Kaushan Script";
+    font-size       : 36px;
+    color           : white;
+    padding-top     : 20px;
+    padding-bottom  : 20px;
+}
+
+.container-fluid {
+    background      : rgba(0, 0, 0, 0.308);
+    height          : 602px;
+}
+
+.About {
+    background      : url("http://dailyazadiquetta.com/wp-content/uploads/fishing-net.jpg");
+    background-size : 100% 100%;
+    height          : auto;
+}
+
+.Image2 {
+    height          : 150px;
+    width           : 180px;
+    padding         : 0;
+    border-radius   : 20px;
+}
